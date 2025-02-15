@@ -23,33 +23,33 @@ As a Certified Management Accountant (CMA) and CPA candidate, I have a strong ba
 ## Education
 
 ### CPA (Certified Public Accountant) - AICPA
-- FAR - Financial Accounting and Reporting
-- AUD - Auditing
-- BEC - Business and Environment Concepts
-- REG - Taxation and Regulation  
+- **FAR** - Financial Accounting and Reporting  
+- **AUD** - Auditing  
+- **BEC** - Business and Environment Concepts  
+- **REG** - Taxation and Regulation  
 [Learn more](https://www.aicpa-cima.com/home)
 
 ### CMA (Certified Management Accountant) - IMA
 **Scholarship Recipient - Top 3 in Scholarship Test**  
-- **Part 1:** Financial Planning, Performance, and Analytics (External Financial Reporting, Budgeting, Cost Management, Internal Controls, Technology & Analytics)
+- **Part 1:** Financial Planning, Performance, and Analytics (External Financial Reporting, Budgeting, Cost Management, Internal Controls, Technology & Analytics)  
 - **Part 2:** Strategic Financial Management (Financial Statement Analysis, Corporate Finance, Risk Management, Capital Investment, Ethics)  
 [Learn more](https://in.imanet.org/)
 
 ### Post Graduate Diplomas - All India Management Association
-- **Public Accounting:** Financial Accounting, Tax, Auditing, Business Finance, Forensic Accounting
-- **Financial Accounting:** International Financial Management, Strategic Cost Management, Derivatives, Portfolio Management
+- **Public Accounting:** Financial Accounting, Tax, Auditing, Business Finance, Forensic Accounting  
+- **Financial Accounting:** International Financial Management, Strategic Cost Management, Derivatives, Portfolio Management  
 
-**Projects:**
-- **Index vs. Hedge Funds:** Analysis of top global stock exchanges.
-- **US Health Insurance Accounting:** Impact of ACA on financial reporting.
+**Projects:**  
+- **Index vs. Hedge Funds:** Analysis of top global stock exchanges.  
+- **US Health Insurance Accounting:** Impact of ACA on financial reporting.  
 
 ### Bachelor's in Commerce (Financial Accounting) - Christ University
-- 6 Semesters | 2018 - 2021 | Distinction
+- **6 Semesters | 2018 - 2021 | Distinction**
 
 ## Professional Work Experience
 
 ### Ernst & Young - Audit and Assurance (Global Delivery Services - US - FSO)
-**Clients:** S&P 500, Fortune 10, FTSE 100
+**Clients:** S&P 500, Fortune 10, FTSE 100  
 
 | Year        | Position  | Key Responsibilities | Recognition | Feedback |
 |------------|-----------|----------------------|--------------|------------|
@@ -60,11 +60,11 @@ As a Certified Management Accountant (CMA) and CPA candidate, I have a strong ba
 
 ## Audit and Assurance Skills
 
-- **Risk Assessment & SOX Testing:** SEC filings, PCAOB Audit Standards
-- **FASB Standards & Financial Statement Analysis**
-- **Substantive Testing & Attestation Engagements**
-- **Industry Knowledge:** Insurance sector compliance & reporting
-- **Communication & Project Management**
+- **Risk Assessment & SOX Testing:** SEC filings, PCAOB Audit Standards  
+- **FASB Standards & Financial Statement Analysis**  
+- **Substantive Testing & Attestation Engagements**  
+- **Industry Knowledge:** Insurance sector compliance & reporting  
+- **Communication & Project Management**  
 
 ## Tools & Certifications
 
