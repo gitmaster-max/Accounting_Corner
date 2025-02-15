@@ -3,7 +3,7 @@ title: About
 author: Vijay Vittal
 date: 2022-02-04
 category: Jekyll
-layout: page
+layout: post
 ---
 
 # Hi, I’m Vijay Vittal
